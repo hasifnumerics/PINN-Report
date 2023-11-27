@@ -25,4 +25,5 @@ And the boundary conditions are:
 - At `x = 0`: `u(0, t) = 0`
 - At `x = 1`: `u(1, t) = 0`
 
-![Alt text] (https://github.com/hasifnumerics/PINN-Report/blob/6455dc650ae0f9ab7a1b3537dc49583f4bafca21/1d%20heat%2015000%20deal%20(1).png)
+![Alt text](https://github.com/hasifnumerics/PINN-Report/blob/6455dc650ae0f9ab7a1b3537dc49583f4bafca21/1d%20heat%2015000%20deal%20(1).png)
+
