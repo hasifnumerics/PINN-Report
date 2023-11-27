@@ -27,3 +27,25 @@ And the boundary conditions are:
 
 ![Alt text](https://github.com/hasifnumerics/PINN-Report/blob/6455dc650ae0f9ab7a1b3537dc49583f4bafca21/1d%20heat%2015000%20deal%20(1).png)
 
+
+# 2D PDE Approximation Using PINNs: Navier-Stokes Equations
+
+Consider the Navier-Stokes equations, which describe the motion of a fluid:
+
+**Navier-Stokes Equations:**
+
+- Momentum equation:
+  `ρ(∂u/∂t + u · ∇u) = -∇p + μ∇²u + f`
+- Continuity equation:
+  `∇ · u = 0`
+
+Where:
+- `u` is the velocity field.
+- `p` is the pressure.
+- `ρ` is the density.
+- `μ` is the dynamic viscosity.
+- `f` is the body force.
+
+We implement the Physics-Informed Neural Network (PINN) solution to the 2D Navier-Stokes problem. You can find the code and plot the pressure field [here](https://github.com/ComputationalDomain/PINNs/blob/main/Cylinder-Wake/NS_PINNS.py).
+
+
