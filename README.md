@@ -48,4 +48,7 @@ Where:
 
 We implement the Physics-Informed Neural Network (PINN) solution to the 2D Navier-Stokes problem. You can find the code and plot the pressure field [here](https://github.com/ComputationalDomain/PINNs/blob/main/Cylinder-Wake/NS_PINNS.py).
 
+To read further on my independent research on PINNs, please refer to this [report](https://github.com/hasifnumerics/PINN-Report/blob/main/PINNs.pdf).
+
+
 
