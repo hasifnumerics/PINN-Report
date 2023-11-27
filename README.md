@@ -25,3 +25,4 @@ And the boundary conditions are:
 - At `x = 0`: `u(0, t) = 0`
 - At `x = 1`: `u(1, t) = 0`
 
+![Alt text] (1d heat 15000 deal (1).png)
